@@ -37,7 +37,7 @@ $cycles = 1000
 $msgs = @("nah", "nuh uh", "nope", "no", "naw")
 
 # First two messages
-$initialMsgs = @(":3", "nah bitch dont u try to close me")
+$initialMsgs = @(":3", "nah bitch dont u try to close me","i just wanted to be friends :(","Im not going to let you close me")
 
 for ($i = 1; $i -le $cycles; $i++) {
     # Always show the first two messages
